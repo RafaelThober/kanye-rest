@@ -15,7 +15,7 @@ export default async function Inicio() {
     <div className="flex flex-col justify-start w-1/4 m-auto h-screen gap-16">
       <div className="flex flex-col text-center gap-3 mt-24">
         <h1 className="text-2xl font-bold">💽 KanYE.rest</h1>
-        <p className="text-zinc-400 text-sm">A free REST API for random Kanye West quotes (Kanye as a Service)</p>
+        <p className="text-zinc-400 text-sm">A generator of the best and most iconic quotes from Legendary KanYe West</p>
       </div>
       <div className="flex flex-col gap-3">
         <div className="flex justify-end mr-5">
